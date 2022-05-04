@@ -1,4 +1,4 @@
-#Task_A. Interactor
+# Task_A. Interactor
 
 Лена руководит разработкой тестирующей системы, в которой реализованы интерактивные задачи. 
 
@@ -15,17 +15,17 @@
 
 Ваша задача — реализовать этот модуль.
 
-##Input file format
+## Input file format
 ***
 
 Входной файл состоит из трёх строк. В первой задано целое число r (−128 ≤ r ≤ 127) — код завершения задачи, во второй — целое число i
 (0 ≤ i ≤ 7) — вердикт интерактора, в третьей — целое число c(0 ≤ c ≤ 7) — вердикт чекера.
 
-##Output file format
+## Output file format
 ***
 Выведите одно целое число от 0 до 7 включительно — итоговый вердикт системы.
 
-##Example 1
+## Example 1
 ***
 
 Input:
@@ -36,7 +36,7 @@ Output:
 
     0
 
-##Example 2
+## Example 2
 ***
 
 Input:
@@ -47,7 +47,7 @@ Output:
 
     3
 
-##Example 3
+## Example 3
 ***
 
 Input:
@@ -58,7 +58,7 @@ Output:
 
     6
 
-##Example 4
+## Example 4
 ***
 
 Input:
@@ -69,7 +69,7 @@ Output:
 
     1
 
-##Example 5
+## Example 5
 ***
 
 Input:
@@ -80,7 +80,7 @@ Output:
 
     3
 
-##Example 6
+## Example 6
 ***
 
 Input:
