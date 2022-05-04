@@ -1,3 +1,5 @@
+package Task_C;
+
 import java.util.Scanner;
 
 public class C {

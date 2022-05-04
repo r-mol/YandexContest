@@ -1,3 +1,5 @@
+package Task_E;
+
 import java.util.Scanner;
 
 public class E {

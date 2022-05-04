@@ -1,3 +1,5 @@
+package Task_A;
+
 import java.util.*;
 
 public class A {

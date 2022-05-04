@@ -1,3 +1,5 @@
+package Task_D;
+
 import java.util.Scanner;
 
 public class D {
